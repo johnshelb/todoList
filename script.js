@@ -4,6 +4,3 @@
 */
 
 //write your functions here:
-function tryOut(){
-  console.log("yes, you can call this function")
-}
